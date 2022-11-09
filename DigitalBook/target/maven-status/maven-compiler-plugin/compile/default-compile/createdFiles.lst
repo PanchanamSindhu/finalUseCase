@@ -1,0 +1,12 @@
+com\digitalbook\entity\BookAuthor.class
+com\digitalbook\service\BookService.class
+com\digitalbook\DigitalbookApplication.class
+com\digitalbook\repository\BookRepository.class
+com\digitalbook\entity\ERole.class
+com\digitalbook\serviceImpl\BookServiceImpl.class
+com\digitalbook\entity\BookCategory.class
+com\digitalbook\entity\User.class
+com\digitalbook\controller\BookController.class
+com\digitalbook\repository\RoleRepository.class
+com\digitalbook\entity\Role.class
+com\digitalbook\entity\Book.class
